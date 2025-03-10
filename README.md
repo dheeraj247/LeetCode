@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dheeraj247/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/dheeraj247/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheeraj247/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/dheeraj247/LeetCode/tree/master/3483-alternating-groups-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/dheeraj247/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/dheeraj247/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
