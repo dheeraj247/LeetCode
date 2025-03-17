@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheeraj247/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheeraj247/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/dheeraj247/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheeraj247/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
