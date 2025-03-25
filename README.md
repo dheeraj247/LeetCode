@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheeraj247/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -87,8 +88,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/dheeraj247/LeetCode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/dheeraj247/LeetCode/tree/master/0113-path-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
