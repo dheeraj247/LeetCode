@@ -42,7 +42,6 @@ class Solution {
             return -1;
         }
         Collections.sort(ls);
-        Collections.reverse(ls);
-        return ls.get(k-1);
+        return ls.get(ls.size()-k);
     }
 }
