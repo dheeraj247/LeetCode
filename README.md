@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dheeraj247/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dheeraj247/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3483-alternating-groups-ii](https://github.com/dheeraj247/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dheeraj247/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dheeraj247/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
