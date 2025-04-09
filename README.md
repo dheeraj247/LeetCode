@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheeraj247/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheeraj247/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1731-even-odd-tree](https://github.com/dheeraj247/LeetCode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheeraj247/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheeraj247/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1731-even-odd-tree](https://github.com/dheeraj247/LeetCode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -147,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheeraj247/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
