@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheeraj247/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dheeraj247/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2998-count-symmetric-integers](https://github.com/dheeraj247/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheeraj247/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/dheeraj247/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
