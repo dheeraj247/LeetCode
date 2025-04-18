@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/dheeraj247/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dheeraj247/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dheeraj247/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/dheeraj247/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dheeraj247/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/dheeraj247/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dheeraj247/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/dheeraj247/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dheeraj247/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dheeraj247/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dheeraj247/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/dheeraj247/LeetCode/tree/master/1731-even-odd-tree) |
