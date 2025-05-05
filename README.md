@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dheeraj247/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/dheeraj247/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheeraj247/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dheeraj247/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheeraj247/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dheeraj247/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dheeraj247/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheeraj247/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheeraj247/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -220,13 +225,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
