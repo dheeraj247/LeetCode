@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/dheeraj247/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/dheeraj247/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Array
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dheeraj247/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Linked List
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/dheeraj247/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
