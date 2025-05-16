@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/dheeraj247/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2378-sender-with-largest-word-count](https://github.com/dheeraj247/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dheeraj247/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheeraj247/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheeraj247/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheeraj247/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2378-sender-with-largest-word-count](https://github.com/dheeraj247/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dheeraj247/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dheeraj247/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/dheeraj247/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheeraj247/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/dheeraj247/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Divide and Conquer
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -271,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dheeraj247/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
