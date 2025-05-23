@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dheeraj247/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/dheeraj247/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/dheeraj247/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheeraj247/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheeraj247/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj247/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/dheeraj247/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
