@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dheeraj247/LeetCode/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dheeraj247/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dheeraj247/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheeraj247/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dheeraj247/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheeraj247/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheeraj247/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dheeraj247/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dheeraj247/LeetCode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dheeraj247/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dheeraj247/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj247/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/dheeraj247/LeetCode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dheeraj247/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheeraj247/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search Tree
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj247/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dheeraj247/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
