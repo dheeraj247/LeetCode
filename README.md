@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/dheeraj247/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/dheeraj247/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/dheeraj247/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheeraj247/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheeraj247/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/dheeraj247/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2378-sender-with-largest-word-count](https://github.com/dheeraj247/LeetCode/tree/master/2378-sender-with-largest-word-count) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheeraj247/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/dheeraj247/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/dheeraj247/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dheeraj247/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
