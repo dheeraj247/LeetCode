@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/dheeraj247/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dheeraj247/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/dheeraj247/LeetCode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dheeraj247/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/dheeraj247/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dheeraj247/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dheeraj247/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dheeraj247/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
