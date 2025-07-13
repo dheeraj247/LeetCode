@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dheeraj247/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/dheeraj247/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dheeraj247/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dheeraj247/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/dheeraj247/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2378-sender-with-largest-word-count](https://github.com/dheeraj247/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dheeraj247/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dheeraj247/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheeraj247/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dheeraj247/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dheeraj247/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheeraj247/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheeraj247/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheeraj247/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dheeraj247/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dheeraj247/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3321-type-of-triangle](https://github.com/dheeraj247/LeetCode/tree/master/3321-type-of-triangle) |
 ## Backtracking
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dheeraj247/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dheeraj247/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
 |  |
