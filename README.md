@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/dheeraj247/LeetCode/tree/master/0468-validate-ip-address) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dheeraj247/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/dheeraj247/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2378-sender-with-largest-word-count](https://github.com/dheeraj247/LeetCode/tree/master/2378-sender-with-largest-word-count) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/dheeraj247/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheeraj247/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheeraj247/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dheeraj247/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheeraj247/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dheeraj247/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dheeraj247/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/dheeraj247/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheeraj247/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dheeraj247/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dheeraj247/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dheeraj247/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dheeraj247/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
